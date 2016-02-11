@@ -1,0 +1,31 @@
+_repo: Noted-Speeches-of-Abraham-Lincoln-Including-the-Lincoln-Douglas-Debate_48364
+contributor:
+  creator:
+    editor:
+      agent_name: Briggs, Lilian Marie
+      gutenberg_agent_id: '44757'
+      url: http://www.gutenberg.org/2009/agents/44757
+creator:
+  author:
+    agent_name: Lincoln, Abraham
+    aliases:
+    - Lincoln, Abe
+    - United States President (1861-1865)
+    birthdate: 1809
+    deathdate: 1865
+    gutenberg_agent_id: '3'
+    url: http://www.gutenberg.org/2009/agents/3
+    wikipedia: http://en.wikipedia.org/wiki/Abraham_Lincoln
+description: ''
+gutenberg_issued: '2015-02-26'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '48364'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+title: 'Noted Speeches of Abraham Lincoln
+
+  Including the Lincoln-Douglas Debate'
+url: http://www.gutenberg.org/ebooks/48364
