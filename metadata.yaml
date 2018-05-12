@@ -1,10 +1,14 @@
 _repo: Noted-Speeches-of-Abraham-Lincoln-Including-the-Lincoln-Douglas-Debate_48364
+_version: 0.1.0
 contributor:
   creator:
     editor:
       agent_name: Briggs, Lilian Marie
       gutenberg_agent_id: '44757'
       url: http://www.gutenberg.org/2009/agents/44757
+covers:
+- cover_type: archival
+  image_path: 48364-h/images/cover.jpg
 creator:
   author:
     agent_name: Lincoln, Abraham
@@ -17,6 +21,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/3
     wikipedia: http://en.wikipedia.org/wiki/Abraham_Lincoln
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/48364#Noted-Speeches-of-Abraham-Lincoln-Including-the-Lincoln-Douglas-Debate
 gutenberg_issued: '2015-02-26'
 gutenberg_type: Text
 identifiers:
